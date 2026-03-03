@@ -4,7 +4,7 @@ fishst1x/README.md
 
 
 # 📖 About Me
-I am a 13 year professional leader in the Hybrid Cloud and Hyperscale Cloud industries. I have extenstive knowledge over a wide variety of skills and I am eager to contribute to businesses and projects so that I can have a meaningful impact to the billions of people that leverage technology every day.
+I am a 16 year professional leader in the Hybrid Cloud and Hyperscale Cloud industries. I have extenstive knowledge over a wide variety of skills and I am eager to contribute to businesses and projects so that I can have a meaningful impact to the billions of people that leverage technology every day.
 
  - Software Engineer with creative ideas
  - Manager, GPU Reliability Engineering at [CoreWeave](https://www.linkedin.com/company/coreweave/posts/?feedView=all).
